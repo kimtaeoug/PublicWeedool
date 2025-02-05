@@ -1,0 +1,83 @@
+name: weedool
+description: "Weedool Application"
+version: 1.0.0+34
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.2.1
+  fluttertoast: ^8.2.2
+  json_annotation: ^4.8.1
+  shared_preferences: ^2.1.0
+  firebase_core: ^3.2.0
+  firebase_messaging: ^15.0.3
+  flutter_naver_map: ^1.2.3+1
+  cached_network_image: ^3.3.1
+  intl: ^0.19.0
+  flutter_localization: ^0.2.0
+  flutter_localizations:
+    sdk: flutter
+  url_launcher: ^6.2.6
+  logger: ^2.3.0
+  fl_chart: ^0.68.0
+  simple_circular_progress_bar: ^1.0.2
+  table_calendar: ^3.1.2
+  firebase_crashlytics: ^4.0.3
+  connectivity_plus: ^6.0.3
+  flutter_local_notifications: ^17.2.1
+  permission_handler: ^11.3.1
+  package_info_plus: ^8.0.0
+  geolocator: ^12.0.0
+  device_info_plus: ^10.1.0
+  lottie: ^3.1.2
+  animate_do: ^3.3.4
+  firebase_analytics: ^11.2.0
+
+dev_dependencies:
+  build_runner: ^2.3.3
+  json_serializable: ^6.7.1
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/json/
+  fonts:
+    - family: NaverNanumSquareVar
+      fonts:
+        - asset: assets/fonts/NaverNanumSquareNeo/NanumSquareNeo-Variable.ttf
+    - family: PretendardVar
+      fonts:
+        - asset: assets/fonts/Pretendard_variable/PretendardVariable.ttf
+    - family: pretendard
+      fonts:
+        - asset: assets/fonts/pretendard/Pretendard-Black.otf
+          weight: 900
+        - asset: assets/fonts/pretendard/Pretendard-ExtraBold.otf
+          weight: 800
+        - asset: assets/fonts/pretendard/Pretendard-Bold.otf
+          weight: 700
+        - asset: assets/fonts/pretendard/Pretendard-SemiBold.otf
+          weight: 600
+        - asset: assets/fonts/pretendard/Pretendard-Medium.otf
+          weight: 500
+        - asset: assets/fonts/pretendard/Pretendard-Regular.otf
+          weight: 400
+        - asset: assets/fonts/pretendard/Pretendard-Light.otf
+          weight: 300
+        - asset: assets/fonts/pretendard/Pretendard-Light.otf
+          weight: 200
+        - asset: assets/fonts/pretendard/Pretendard-Thin.otf
+          weight: 100
+    - family: GangwonEduSaeeum
+      fonts:
+        - asset: assets/fonts/etc/GangwonEduSaeeum.otf
+

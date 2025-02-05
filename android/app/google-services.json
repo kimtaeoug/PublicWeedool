@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303415011687",
+    "project_id": "project-weedool-app-ios-aos",
+    "storage_bucket": "project-weedool-app-ios-aos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303415011687:android:73299fed9562241a2667c2",
+        "android_client_info": {
+          "package_name": "com.turingbio.weedool.service.projectWeedoolTuring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm7bzn2kkofVA0U5buzVHKixxVuYd-6Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
