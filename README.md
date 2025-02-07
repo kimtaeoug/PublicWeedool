@@ -54,7 +54,6 @@ Desc : BA 활용 디지털 치료 지향 서비스(Lite Version).
 * ___해당 프로젝트는 전임 개발자의 Legacy와 유료 Library를 활용해 서비스가 중단되었었음___
 * ___그래서 서비스 작동 및 버그 축소를 위한 개발만 진행함.___
 
-<details>
  <pre>
  ㆍ Component, Page 재개발  
  ㆍ Util 분리 및 재개발(Permission, Notification, DeviceInfo등)  
@@ -62,7 +61,6 @@ Desc : BA 활용 디지털 치료 지향 서비스(Lite Version).
  ㆍ Syncfusion 관련 모든 Library 제거 및 새로 개발 -> Calendar, Graph등
  ㆍ GA 추가
  </pre>
-</details>  
 
 ### 협업 Tool
 
