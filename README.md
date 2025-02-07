@@ -11,11 +11,10 @@
 ![Stack](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 </div>
 
-## IntroDuction
-
+## IntroDuction  
 Company : Turingbio  
-Desc : BA 활용 디지털 치료 지향 서비스(Lite Version).
-주요 기능 : 감정 선택, BA 추천, 상태 모니터링, 심리 상담 센터 소개
+Desc : BA 활용 디지털 치료 지향 서비스(Lite Version).  
+주요 기능 : 감정 선택, BA 추천, 상태 모니터링, 심리 상담 센터 소개  
 <div align="left">
 <table>
    <tr>
